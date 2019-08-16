@@ -1,0 +1,17 @@
+body{margin:0;padding:0;background:#ffffff url('/images/page-background.jpg') top left repeat-x;font-family:Arial,Verdana,sans-serif;font-size:14px;color:#613d2d}
+a:hover{color:#e86032;text-decoration:underline}
+p{color:#999}
+.flat{margin:0;padding:0}
+.online-tools{margin:45px 0 0 0;padding:20px;border:1px dashed #999999;background:url("http://3.bp.blogspot.com/-lXfFWilns-I/TvNLEk6_zJI/AAAAAAAABBk/pkuxR5WIXOY/s400/Gradient-bg.gif") repeat scroll 0 0 transparent;clear:both}
+form{padding:0;margin:0}
+textarea{width:98%;margin:0;padding:0;background:#333;color:#999;border:2px solid #000;padding:5px 10px 5px 15px}
+form h2{font-family:"Lucida Sans Unicode","Lucida Grande",sans-serif;font-size:18px;color:yellow;margin:0;padding:0}
+#wrapper{width:100%;margin:0 auto;padding:0}
+#editor-fixed{width:100%;padding:10px 15px;height:60px;position:fixed!important;position:absolute;top:0;right:0;left:0;z-index:999;background-color:#333;color:#ccc;border-bottom:2px solid #999;padding:2px 0 1px 1%;-webkit-box-shadow:0 0 7px black;-moz-box-shadow:0 0 7px black;box-shadow:0 0 7px black}
+#editor-fixed h2{font-family:"Lucida Sans Unicode","Lucida Grande",sans-serif;font-size:18px;color:#ccc;margin:10px;padding:8px 0}
+.frmbtn{margin:0 0 20px 0;padding:6px 9px;color:#000;font-size:15px}
+noscript{background-color:#ffff00;padding:40px}
+.fleft{float:left;padding:5px 10px 5px 0}
+.fright{float:right;padding:5px 0 5px 10px}
+footer{font-family:'Monaco','Andale Mono','Courier','Courier New';font-size:11px;position:fixed;width:100%;bottom:0;padding:7px;color:#ddd;border-top:3px solid #a00;background-color:#00394d;-webkit-box-shadow:0 -1px 10px rgba(0,0,0,0.5);-moz-box-shadow:7px 7px 10px rgba(0,0,0,0.5);text-shadow:1px 1px 1px #000;text-align:center}
+footer a{color:#ddd;text-decoration:none}
